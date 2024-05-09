@@ -21,3 +21,4 @@ def browser(language):
     yield browser
     print("\nQuit browser...")
     browser.quit()
+    print('jopa')
